@@ -2,7 +2,7 @@
 
 This project focuses on analyzing the real estate market in Tashkent and predicting house prices using various features. It covers the entire data science pipeline: data cleaning, Exploratory Data Analysis (EDA), and Machine Learning modeling.
 
-**Key Insights from Analysis**
+## Key Insights from AnalysiS:
 
 During the data exploration phase, the following key trends were identified:
 
@@ -20,7 +20,7 @@ During the data exploration phase, the following key trends were identified:
 
 **Most Affordable Area:** Bektemir district has the lowest average prices.
 
-**Business Solutions & Recommendations**
+## Business Solutions & Recommendations:
 
 Targeted Investment: Real estate investors should focus on Chilonzor and Mirzo Ulugbek for high liquidity (high sales volume), or Mirabod and Yakkasaroy for premium rental yields and high-value flipping.
 
@@ -30,7 +30,7 @@ Pricing Strategy: Real estate agencies can use this Random Forest model to provi
 
 Market Expansion: Bektemir represents an entry-level market. Low prices per square meter suggest it could be a prime location for "Budget Housing" projects or long-term land-value appreciation.
 
-**🛠 Technologies Used:**
+## Technologies Used:
 
 Python (Pandas, NumPy)
 
@@ -40,7 +40,7 @@ Feature Engineering , Pipeline
 
 Scikit-learn (For Machine Learning), RandomForest, metrics, Cross Validation(CV), RandomizedSearchCV
 
-**Model & Performance**
+## Model & Performance:
 
 The project utilizes the Random Forest Regressor algorithm to predict house prices. By considering multiple factors such as district, number of rooms, total area, and floor level, the model achieved high predictive accuracy.
 
