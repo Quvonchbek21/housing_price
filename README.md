@@ -1,4 +1,4 @@
-**Tashkent Housing Price Prediction**
+## Tashkent Housing Price Prediction
 
 This project focuses on analyzing the real estate market in Tashkent and predicting house prices using various features. It covers the entire data science pipeline: data cleaning, Exploratory Data Analysis (EDA), and Machine Learning modeling.
 
