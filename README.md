@@ -2,7 +2,7 @@
 
 This project focuses on analyzing the real estate market in Tashkent and predicting house prices using various features. It covers the entire data science pipeline: data cleaning, Exploratory Data Analysis (EDA), and Machine Learning modeling.
 
-## Key Insights from AnalysiS:
+## Key Insights from Analysis:
 
 During the data exploration phase, the following key trends were identified:
 
