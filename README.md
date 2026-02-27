@@ -45,7 +45,9 @@ Scikit-learn (For Machine Learning), RandomForest, metrics, Cross Validation(CV)
 The project utilizes the Random Forest Regressor algorithm to predict house prices. By considering multiple factors such as district, number of rooms, total area, and floor level, the model achieved high predictive accuracy.
 
 MAE: 6790.603791809947
+
 RMSE: 10555.403345225895
+
 R2: 0.8805747431687113
 
 
